@@ -1,0 +1,13 @@
+C:\Users\klenn\source\repos\extenso convert\extenso convert\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\klenn\source\repos\extenso convert\extenso convert\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\klenn\source\repos\extenso convert\extenso convert\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\klenn\source\repos\extenso convert\extenso convert\bin\Debug\netcoreapp1.1\extenso convert.deps.json
+C:\Users\klenn\source\repos\extenso convert\extenso convert\bin\Debug\netcoreapp1.1\extenso convert.runtimeconfig.json
+C:\Users\klenn\source\repos\extenso convert\extenso convert\bin\Debug\netcoreapp1.1\extenso convert.runtimeconfig.dev.json
+C:\Users\klenn\source\repos\extenso convert\extenso convert\bin\Debug\netcoreapp1.1\extenso convert.dll
+C:\Users\klenn\source\repos\extenso convert\extenso convert\bin\Debug\netcoreapp1.1\extenso convert.pdb
+C:\Users\klenn\source\repos\extenso convert\extenso convert\obj\Debug\netcoreapp1.1\extenso convert.csprojResolveAssemblyReference.cache
+C:\Users\klenn\source\repos\extenso convert\extenso convert\obj\Debug\netcoreapp1.1\extenso convert.csproj.CoreCompileInputs.cache
+C:\Users\klenn\source\repos\extenso convert\extenso convert\obj\Debug\netcoreapp1.1\extenso convert.AssemblyInfo.cs
+C:\Users\klenn\source\repos\extenso convert\extenso convert\obj\Debug\netcoreapp1.1\extenso convert.dll
+C:\Users\klenn\source\repos\extenso convert\extenso convert\obj\Debug\netcoreapp1.1\extenso convert.pdb
