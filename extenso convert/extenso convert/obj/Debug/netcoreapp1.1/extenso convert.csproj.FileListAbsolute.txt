@@ -11,3 +11,16 @@ C:\Users\klenn\source\repos\extenso convert\extenso convert\obj\Debug\netcoreapp
 C:\Users\klenn\source\repos\extenso convert\extenso convert\obj\Debug\netcoreapp1.1\extenso convert.AssemblyInfo.cs
 C:\Users\klenn\source\repos\extenso convert\extenso convert\obj\Debug\netcoreapp1.1\extenso convert.dll
 C:\Users\klenn\source\repos\extenso convert\extenso convert\obj\Debug\netcoreapp1.1\extenso convert.pdb
+D:\klenner\gits\Devops03-2\exercicio2\extenso convert\extenso convert\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\klenner\gits\Devops03-2\exercicio2\extenso convert\extenso convert\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\klenner\gits\Devops03-2\exercicio2\extenso convert\extenso convert\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\klenner\gits\Devops03-2\exercicio2\extenso convert\extenso convert\bin\Debug\netcoreapp1.1\extenso convert.deps.json
+D:\klenner\gits\Devops03-2\exercicio2\extenso convert\extenso convert\bin\Debug\netcoreapp1.1\extenso convert.runtimeconfig.json
+D:\klenner\gits\Devops03-2\exercicio2\extenso convert\extenso convert\bin\Debug\netcoreapp1.1\extenso convert.runtimeconfig.dev.json
+D:\klenner\gits\Devops03-2\exercicio2\extenso convert\extenso convert\bin\Debug\netcoreapp1.1\extenso convert.dll
+D:\klenner\gits\Devops03-2\exercicio2\extenso convert\extenso convert\bin\Debug\netcoreapp1.1\extenso convert.pdb
+D:\klenner\gits\Devops03-2\exercicio2\extenso convert\extenso convert\obj\Debug\netcoreapp1.1\extenso convert.csprojResolveAssemblyReference.cache
+D:\klenner\gits\Devops03-2\exercicio2\extenso convert\extenso convert\obj\Debug\netcoreapp1.1\extenso convert.csproj.CoreCompileInputs.cache
+D:\klenner\gits\Devops03-2\exercicio2\extenso convert\extenso convert\obj\Debug\netcoreapp1.1\extenso convert.AssemblyInfo.cs
+D:\klenner\gits\Devops03-2\exercicio2\extenso convert\extenso convert\obj\Debug\netcoreapp1.1\extenso convert.dll
+D:\klenner\gits\Devops03-2\exercicio2\extenso convert\extenso convert\obj\Debug\netcoreapp1.1\extenso convert.pdb

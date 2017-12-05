@@ -7,7 +7,7 @@ namespace extenso_convert
     [TestClass]
     public class UnitTest1
     {
- 
+
         [TestMethod]
         public void test_unidade()
         {
@@ -54,11 +54,28 @@ namespace extenso_convert
         public void test_ValorInvalido()
         {
             Extenso extenso = new Extenso();
-            Assert.AreEqual("Valor inválido", extenso.convert(9090));
-            Assert.AreEqual("Valor inválido", extenso.convert(0));
-            Assert.AreEqual("Valor inválido", extenso.convert(-90));
+            Assert.AreEqual("", extenso.convert(9090));
+            //            Assert.AreEqual("Valor inválido", extenso.convert(0));
+            //            Assert.AreEqual("Valor inválido", extenso.convert(-90));
         }
 
+        [TestMethod]
+        public void test_negativo()
+        {
+            Extenso extenso = new Extenso();
+            Assert.AreEqual("Menos dez", extenso.convert(-10));
+            Assert.AreEqual("Menos onze", extenso.convert(-11));
+            Assert.AreEqual("Menos quatorze ", extenso.convert(-14));
+            Assert.AreEqual("Menos dezenove", extenso.convert(-19));
+            Assert.AreEqual("Menos quarenta e dois", extenso.convert(-42));
+        }
+        [TestMethod]
+        public void test_fracao()
+        {
+            Extenso extenso = new Extenso();
+            Assert.AreEqual("Menos dez ponto um", extenso.convert(-10.1));
+            Assert.AreEqual("sete ponto quatorze", extenso.convert(7.14));
+        }
 
     }
 }

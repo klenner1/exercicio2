@@ -8539,11 +8539,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\klenn\\source\\repos\\extenso convert\\extenso convert\\extenso convert.csproj",
+      "projectUniqueName": "D:\\klenner\\gits\\Devops03-2\\exercicio2\\extenso convert\\extenso convert\\extenso convert.csproj",
       "projectName": "extenso convert",
-      "projectPath": "C:\\Users\\klenn\\source\\repos\\extenso convert\\extenso convert\\extenso convert.csproj",
+      "projectPath": "D:\\klenner\\gits\\Devops03-2\\exercicio2\\extenso convert\\extenso convert\\extenso convert.csproj",
       "packagesPath": "C:\\Users\\klenn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\klenn\\source\\repos\\extenso convert\\extenso convert\\obj\\",
+      "outputPath": "D:\\klenner\\gits\\Devops03-2\\exercicio2\\extenso convert\\extenso convert\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\klenn\\AppData\\Roaming\\NuGet\\NuGet.Config",
